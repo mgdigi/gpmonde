@@ -1,0 +1,1 @@
+{"version":3,"file":"Alimentaire.d.ts","sourceRoot":"","sources":["../../src/Model/Alimentaire.ts"],"names":[],"mappings":"AAAA,OAAQ,EAAC,OAAO,EAAC,MAAO,WAAW,CAAC;AAEpC,qBAAa,WAAY,SAAQ,OAAO;gBAExB,OAAO,EAAE,MAAM,EAAE,KAAK,EAAE,MAAM,EAAE,WAAW,GAAG,MAAsB;IAIzE,IAAI,IAAI,IAAI;CAItB"}
